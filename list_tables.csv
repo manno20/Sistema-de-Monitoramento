@@ -1,0 +1,4 @@
+Tipo,Datalogger,Tabela,Colunas
+pi,Aerossois,Nephelometro,"Datetime,Date_Nefe,Scat_Coef,Air_Temp,Cell_Temp,RH,Pressure,Type1,Type2"
+pi,Perfil,perfil,"Datetime,CO2_1,H2O_1,CO2_2,H2O_2,CO2_3,H2O_3,CO2_4,H2O_4"
+cr1000,Eddy,Flux,"Datetime,RecNbr,Hs,Hc,LE,Fc,tau,u_star,Ux_Lag_Avg,Uy_Lag_Avg,Uz_Lag_Avg,Ts_Lag_Avg,sonic_samples,CO2_Lag_Avg,H2O_Lag_Avg,cell_tmpr_Lag_Avg,cell_press_Lag_Avg,diff_press_Lag_"

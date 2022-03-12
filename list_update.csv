@@ -1,0 +1,13 @@
+Tipo,Nome,Porta,Tabela
+cr1000,Micromet1,6020,BdP_amostras
+cr1000,Micromet2,6022,Amostras
+cr1000,Base,6130,Table1
+cr1000,Base,6130,Table_CTD
+pi,perfil,2103,-
+pi,nefelometro,2104,-
+pi,Termoflux,2105,-
+pi,neph3c,2107,-
+pi,Micromet1,2108,BdP_amostras
+picr1000,Micromet1,2108,BdP_amostras
+cr1000,Eddy,6004,Flux
+picr1000,Termoflux,2105,Amostras
