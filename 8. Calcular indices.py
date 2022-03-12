@@ -81,7 +81,7 @@ def addColumn(db,table,column,type):
 		return False
 
 def connect():
-        mydb = mysql.connector.connect(host="localhost",user="lucas",passwd="rothmund",database="Monitoramento_Solinftec")
+        mydb = mysql.connector.connect(host="localhost",user="user",passwd="pass",database="seu-db")
         return mydb
 
 def FillTable(db,tabela):
